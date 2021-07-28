@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Denuke](https://drive.google.com/file/d/1FxmRNSuVrLCeWGueBNhd7PlnwLT_oA5B/view?usp=sharing)
